@@ -1,0 +1,10 @@
+
+Application 	 
+CATALOGSERVICE	 - localhost:CatalogService:8100  -http://localhost:8100/catalog/AllBooks
+TITLEAUTHORDBSERVICE - localhost:TitleAuthorDBService:8001 -  http://localhost:8001/TitleAuthors/all
+
+
+
+
+
+ 
